@@ -41,13 +41,14 @@
 
 
 ### Результаты:  
-....
+
+Программа на Python угадывает число в среднем за 5 попыток
 
 :arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
 
 
 ### Выводы:  
-....
+
 
 :arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
 

@@ -42,13 +42,14 @@
 
 ### Результаты:  
 
-Программа на Python угадывает число в среднем за 5 попыток
+[Файл](https://github.com/maksmick/SF/blob/main/project_0/game_v3.py#game_v3.py)
 
 :arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
 
 
 ### Выводы:  
 
+Программа на Python угадывает число в среднем за 5 попыток
 
 :arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
 

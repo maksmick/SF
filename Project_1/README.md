@@ -1,58 +1,56 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/maksmick/SF/tree/main/project_0)  
-[2. Какой кейс решаем?](https://github.com/maksmick/SF
-/tree/main/project_0#какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/maksmick/SF/tree/main/project_0#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/maksmick/SF/tree/main/project_0#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/maksmick/SF/tree/main/project_0#результаты)    
-[6. Выводы](https://github.com/maksmick/SF/tree/main/project_0#выводы) 
+[1. Описание проекта](https://github.com/maksmick/SF/tree/main/Project_1#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/maksmick/SF/tree/main/Project_1#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/maksmick/SF/tree/main/Project_1#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/maksmick/SF/tree/main/Project_1#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/maksmick/SF/tree/main/Project_1#результаты)    
+[6. Выводы](https://github.com/maksmick/SF/tree/main/Project_1#выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+Анализируем данные датасета из HeadHunter.
 
-:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление_)
+:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/Project_1#оглавление)
 
 
 ### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
+Используя библиотеки Pandas и Numpy анализировать данные, преобразовать их и очистить для подготовки к дальнейшей работе с ними. Создать новые признаки и исследовать их на зависимость с помощью построения графиков для визуализации. Сделать выводы по преобразованным и новым признакам. 
 
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
 
 
 ### Краткая информация о данных
-....
+[Ссылка](https://drive.google.com/file/d/10EuWaCwEE3SVLGo7wXVrvkmGo2vUa06s/view?usp=sharing)
   
-:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/Project_1#оглавление)
 
 
 ### Этапы работы над проектом  
-....
+[Исследование структуры данных](https://github.com/maksmick/SF/tree/main/Project_1#исследование-структуры-данных)  
+[Преобразование данных](https://github.com/maksmick/SF/tree/main/Project_1#преобразование-данных)  
+[Исследование зависимостей в данных](https://github.com/maksmick/SF/tree/main/Project_1#исследование-зависимостей-в-данных)  
+[Очистка данных](https://github.com/maksmick/SF/tree/main/Project_1#очистка-данных)
 
-:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
+
+:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/Project_1#оглавление)
 
 
 ### Результаты:  
 
-[Файл](https://github.com/maksmick/SF/blob/main/project_0/game_v3.py#game_v3.py)
+[Итоговый файл в формате csv](https://drive.google.com/file/d/18g5YpIslvPdLQroPgDA05nLuB4YlzpDd/view?usp=sharing)
 
-:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/Project_1#оглавление)
 
 
 ### Выводы:  
 
-Программа на Python угадывает число в среднем за 5 попыток
+ Уровень образования, возраст, город проживания, готовность к переезду и командировкам оказывают значительное влияние на желаемую заработную плату.
+   
+ Признаки, созданные в процессе преобразования данных, оказались полезными для анализа и могут быть использованы в дальнейшем моделировании.
 
-:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/project_0#оглавление)
+
+:arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/Project_1#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

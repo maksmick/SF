@@ -22,6 +22,7 @@
 
 ### Краткая информация о данных
 [Ссылка](https://drive.google.com/file/d/10EuWaCwEE3SVLGo7wXVrvkmGo2vUa06s/view?usp=sharing)
+[Графики]()
   
 :arrow_up:[к оглавлению](https://github.com/maksmick/SF/tree/main/Project_1#оглавление)
 
